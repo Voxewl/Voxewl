@@ -1,13 +1,3 @@
-<style>
-.banner {
-    /* The image used */
-    background-image:
-    url(https://.../mountain.png);
-    /* Set background size */
-    background-size:cover;
-  }
-</style>
-
 <header>
   <div class="banner">
   <div>
